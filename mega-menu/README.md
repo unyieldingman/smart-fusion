@@ -1,9 +1,9 @@
 # Mega Menu
 
 ## Installation:
-1) Include following class to your script
+1. Include following class to your script
 `require_once INFUSIONS."mega_menu/classes/MegaMenu.class.php";`
-2) Build menu by calling static method
+2. Build menu by calling static method
 `string MegaMenu::buildMegaMenu ( void )`
 
 ### Example:
