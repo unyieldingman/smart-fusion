@@ -1,4 +1,4 @@
-# Very Panel 1.0
+# Very Panel 2.0
 
 ## Installation:
 1. Copy folders & files from the <files> folder into the root directory of PHP-Fusion.
@@ -7,6 +7,5 @@
 4. Enjoy!
 
 ## Documentation:
-Personal API Keys: http://smart-fusion.ru/api.php
-Very Guideline: http://smart-fusion.ru/viewpage.php?page_id=1
-Free addons database: http://smart-fusion.ru/storage.php
+* API Keys: http://smart-fusion.ru/api.php
+* Very Guideline: http://smart-fusion.ru/viewpage.php?page_id=1
