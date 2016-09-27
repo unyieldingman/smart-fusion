@@ -1,0 +1,155 @@
+.smart_manager {
+	width: 600px;
+}
+
+.smart_box_l {
+	width: 350px;
+}
+
+.smart_box_r {
+	float: right;
+	width: 250px;
+}
+
+.smart_list_column {
+	float: right;
+	width: 250px;
+}
+
+.smart_list_box {
+	overflow-y: scroll;
+	width: 100%;
+	height: 300px;
+}
+
+.smart_explorer {
+	width: 350px;
+}
+
+.smart_list, .smart_list li ul {
+	list-style: none;
+	list-style-type: none;
+	font-weight: bold;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.smart_list li ul {
+	display: none;
+	font-weight: normal;
+}
+
+.smart_list li {
+	margin-bottom: 2px;
+}
+
+.smart_list_controls {
+	text-align: left;
+	margin-top: 2px;
+}
+
+.smart_preview {
+	text-align: left;
+	height: 150px;
+}
+
+.smart_info, .smart_description {
+	text-align: left;
+	padding-right: 5px;
+	margin-bottom: 3px;
+}
+
+.smart_stats {
+	text-align: left;
+}
+
+.smart_loader {
+	display: none;
+	border: none;
+	vertical-align: middle;
+	margin-top: 43px;
+	margin-left: 118px;
+}
+
+.smart_preview {
+	border: none;
+	background-color: transparent;
+	width: 300px;
+	height: 150px;
+}
+
+.smart_info_l {
+	text-align: left;
+	width: 175px;
+}
+
+.smart_info_r {
+	float: right;
+	text-align: left;
+	width: 175px;
+}
+
+.smart_update_box {
+	margin-bottom: -5px;
+}
+
+.smart_update_link, .smart_ownership_link {
+	position: relative;
+	left: 0;
+	bottom: -3px;
+}
+
+.smart_install_button {
+	float: right;
+	text-align: right;
+	padding-right: 20px;
+	margin-top: 3px;
+}
+
+.smart_autoload {
+	position: absolute;
+	top: 0;
+	left: -9999px;
+}
+
+.smart_waiter {
+	display: none;
+	float: right;
+	border: none;
+	vertical-align: middle;
+	margin-top: 5px;
+}
+
+.smart_nohide {
+	display: block;
+}
+
+.smart_active {
+	font-weight: bold;
+	border: 1px solid #888;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.smart_status {
+	float: right;
+	text-align: right;
+	font-weight: bold;
+}
+
+.smart_valign_fix {
+	vertical-align: middle;
+	border: none;
+	margin-top: 5px;
+}
+
+.smart_panorama {
+	display: none;
+}
+
+#Compatible, #Size, #Type, 
+#Title, #Author, #Pubdate {
+	font-weight: bold;
+}

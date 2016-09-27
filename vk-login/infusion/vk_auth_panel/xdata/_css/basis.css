@@ -1,0 +1,130 @@
+/*
+	VK Auth Panel
+	Plain CSS File
+	
+	rev.: H5v5	ver.: 0.1.0
+	pubdate:	13/09/2016
+	updated:	01/01/1970
+*/
+
+/* Vk Auth Panel Properties */
+.vkontakte-panel--auth,
+.vkontakte-panel--profile {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	background-color: #45668E;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 20px 15px 20px 15px;
+}
+
+.vkontakte-panel--auth .vkontakte-panel-icon {
+	display: block;
+	border: none;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.vkontakte-panel--auth .vkontakte-panel-link,
+.vkontakte-panel--profile .vkontakte-panel-logout {
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+
+.vkontakte-panel--auth .vkontakte-panel-link a,
+.vkontakte-panel--profile .vkontakte-panel-logout a {
+	display: inline-block;
+	font-weight: 600;
+	font-size: 13px;
+	color: #45668E;
+	text-shadow: none;
+	text-decoration: none;
+	background-color: #FFF;
+	line-height: 16px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	padding: 6px 14px;
+}
+
+.vkontakte-panel--auth .vkontakte-panel-link a:hover,
+.vkontakte-panel--profile .vkontakte-panel-logout a:hover {
+	background-color: #F7F7F7;
+}
+
+.vkontakte-panel--auth .vkontakte-panel-link a:active,
+.vkontakte-panel--profile .vkontakte-panel-logout a:active {
+	background-color: #F2F2F2;
+}
+
+/* Vk Auth Panel Properties */
+.vkontakte-panel--profile .vkontakte-panel-photo {
+	display: block;
+	border: none;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+.vkontakte-panel--profile .vkontakte-panel-link {
+	font-weight: 400;
+	font-size: 13px;
+	color: #D3E1F2;
+	text-align: center;
+	text-shadow: none;
+	line-heigh: 16px;
+	margin: 20px 0 0 0;
+}
+
+.vkontakte-panel--profile .vkontakte-panel-link a {
+	display: inline-block;
+	font-weight: 600;
+	font-size: 14px;
+	color: #FFF;
+	text-shadow: none;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+	margin: 2px 0 0 0;
+}
+
+.vkontakte-panel--profile .vkontakte-panel-link a:hover {
+	color: #F7F7F7;
+	border-bottom-color: #F7F7F7;
+}
+
+.vkontakte-panel--profile .vkontakte-panel-link a:active {
+	color: #F2F2F2;
+	border-bottom-color: #F2F2F2;
+}
+
+/* Vkontakte Error Panel Properties */
+.vkontakte-panel--error {
+	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+	font-size: 12px;
+	line-height: 14px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+	border: 2px dashed rgba(0, 0, 0, .5);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 10px 15px;
+}
+
+.vkontakte-panel--error .vkontakte-panel-icon {
+	display: block;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.vkontakte-panel--error .vkontakte-panel-message {
+	color: rgba(0, 0, 0, .5);
+	text-shadow: none;
+	margin: 10px 0 0 0;
+}

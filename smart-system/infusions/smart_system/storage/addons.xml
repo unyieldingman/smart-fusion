@@ -1,0 +1,2970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smart version='2.0' update='10-04-2012' language='English'>
+<addon id='204'>
+<title>Yandex video</title>
+<description>BB-code to insert a video from video service Yandex.
+
+For video output should be between the bb-code tags to insert references to the end of the movie after the lite /.</description>
+<autolink>http://smart-fusion.ru/storage/yandex_video.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_37.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_37.jpg</panorama>
+<category>4</category>
+<author>Myth</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3141</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='203'>
+<title>Strikeout</title>
+<description>BB-code, which makes text strikethrough.</description>
+<autolink>http://smart-fusion.ru/storage/strikeout.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_36.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_36.jpg</panorama>
+<category>4</category>
+<author>php-Invent Team</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>4430</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='202'>
+<title>Electronic moving text</title>
+<description>BB code running line from right to left.
+Works on version 7 and above.</description>
+<autolink>http://smart-fusion.ru/storage/electronic_moving_text.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_35.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_35.jpg</panorama>
+<category>4</category>
+<author>Fangree_Craig</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3797</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='201'>
+<title>Yandex maps </title>
+<description>Shows the point on the map Yandex and description to it.</description>
+<autolink>http://smart-fusion.ru/storage/yandex_maps.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/yandex_maps_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/yandex_maps_.png</panorama>
+<category>4</category>
+<author>Razor</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>3225</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='200'>
+<title>Smiley mit Gedanken </title>
+<description>Display the selected text comments as smiley thoughts. Russian locale. The disadvantage - long stretches text page.</description>
+<autolink>http://smart-fusion.ru/storage/smiley_mit_gedanken.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_34.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_34.jpg</panorama>
+<category>4</category>
+<author>MarcusG</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>3558</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='199'>
+<title>Postimage</title>
+<description>BB-code to insert images from your computer through the image hosting for forums PostImage.org</description>
+<autolink>http://smart-fusion.ru/storage/postimage.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_33.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_33.jpg</panorama>
+<category>4</category>
+<author>Sium</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>3768</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='198'>
+<title>Media</title>
+<description>With the help of the bb-code can be played directly from the site
+file formats: 3g2, 3gp, aac, f4a, f4v, flv, m4a, m4v, mov (h.264), mp3, mp4, as well as videos from YouTube.com</description>
+<autolink>http://smart-fusion.ru/storage/media.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_32.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_32.jpg</panorama>
+<category>4</category>
+<author>dark</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.00</compatible>
+<size>132105</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='197'>
+<title>IMG improvements</title>
+<description>Modification of dehiscence Pictures &quot;page&quot; is compatible with the built-in scripts (functional remains at 100%).
+
+A full-featured upgrade is compatible with 7.01 and older.</description>
+<autolink>http://smart-fusion.ru/storage/img.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_31.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_31.jpg</panorama>
+<category>4</category>
+<author>Psc</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>16557</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='196'>
+<title>Fieldset</title>
+<description>BB-code display fields and legends.</description>
+<autolink>http://smart-fusion.ru/storage/fieldset.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fieldset.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/fieldset.png</panorama>
+<category>4</category>
+<author>Fangree_Craig</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>4935</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='195'>
+<title>Code With Select</title>
+<description>Modification of the standard BB-code, which displays the text as a code, but with the ability to select all code.</description>
+<autolink>http://smart-fusion.ru/storage/code_with_select.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_30.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_30.jpg</panorama>
+<category>4</category>
+<author>Fangree_Craig</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>10101</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='194'>
+<title>Chart</title>
+<description>BB-code, which allows you to build charts using Google Chart API image.</description>
+<autolink>http://smart-fusion.ru/storage/chart.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/chart.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/chart.png</panorama>
+<category>4</category>
+<author>lelebart</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>9528</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='193'>
+<title>Offtopic</title>
+<description>BB-code, which displays the selected text as Offtopic.</description>
+<autolink>http://smart-fusion.ru/storage/offtopic.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/offtopic.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/offtopic.png</panorama>
+<category>4</category>
+<author>MarcusG</author>
+<pubdate>04-10-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>7155</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='192'>
+<title>leech</title>
+<description>Is identical to the tag URL, except that it produces a redirect link and signing in and &lt;_noindex&gt; rel = &#39;nofollow&#39;
+
+bbcode leech - works for http, https, ftp, ftps</description>
+<autolink>http://smart-fusion.ru/storage/leech.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_29.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_29.jpg</panorama>
+<category>4</category>
+<author>mod</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>7401</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='191'>
+<title>Google Docs</title>
+<description>BB-code, which allows you to view any documents that are supported by Google - on the site, in the frame. Beautiful, comfortable and practical.</description>
+<autolink>http://smart-fusion.ru/storage/google_docs.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_28.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_28.jpg</panorama>
+<category>4</category>
+<author>Psc</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3271</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='190'>
+<title>4shared</title>
+<description>BB-code insert video and mp3 with _www.4shared.com.</description>
+<autolink>http://smart-fusion.ru/storage/4shared.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/4shared.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/4shared.png</panorama>
+<category>4</category>
+<author>chatlaq</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>7457</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='188'>
+<title>Update 7.01.03</title>
+<description>PHP-Fusion v7.01.03 update package for PHP-Fusion v7.01.02.</description>
+<autolink>http://smart-fusion.ru/storage/update_7_01_03.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fusion_page_1.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/fusion_page_1.png</panorama>
+<category>5</category>
+<author>PHP-Fusion Team</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.02</compatible>
+<size>101124</size>
+<type>Update</type>
+<certificate>1</certificate>
+</addon>
+<addon id='187'>
+<title>Update 7.01.02</title>
+<description>PHP-Fusion v7.01.02 update package for PHP-Fusion v7.01.01.</description>
+<autolink>http://smart-fusion.ru/storage/update_7_01_02.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fusion_page.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/fusion_page.png</panorama>
+<category>5</category>
+<author>PHP-Fusion Team</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.01</compatible>
+<size>88883</size>
+<type>Update</type>
+<certificate>1</certificate>
+</addon>
+<addon id='186'>
+<title>Wikipedia</title>
+<description>Put a word to your desired wikipedia page.</description>
+<autolink>http://smart-fusion.ru/storage/wikipedia.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/wikipedia.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/wikipedia.jpg</panorama>
+<category>4</category>
+<author>Mega Pixel</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2845</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='185'>
+<title>Vbox7</title>
+<description>BB code for the Bulgarian video sharing website Vbox7</description>
+<autolink>http://smart-fusion.ru/storage/vbox7.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/vbox7.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/vbox7.png</panorama>
+<category>4</category>
+<author>hippocanjump</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>5692</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='184'>
+<title>URL</title>
+<description>This will show the Snapshot of the Link Attached through the URL BB Code in a small Fancy Box. If the Link is not added or cached by websnapr.com, then it will be queued and will available in just a minutes.</description>
+<autolink>http://smart-fusion.ru/storage/url.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/url.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/url.png</panorama>
+<category>4</category>
+<author>Wooya</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>33191</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='183'>
+<title>Spoiler2</title>
+<description>With this BBcode you can hide some text with a spoiler.
+It will be showed as the code, with a Show/Hide &quot;button&quot;</description>
+<autolink>http://smart-fusion.ru/storage/spoiler2.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_27.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_27.jpg</panorama>
+<category>4</category>
+<author>lelebart</author>
+<pubdate>04-09-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>43850</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='182'>
+<title>Twitter Followers</title>
+<description>Displays Twitter Followers in a nice Twitter bird image.
+
+Twitter users might have to register at http://twittercounter.com/ for this to work.</description>
+<autolink>http://smart-fusion.ru/storage/twitter_followers.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/twitter_followers.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/twitter_followers.png</panorama>
+<category>4</category>
+<author>Craig</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>3706</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='181'>
+<title>Strike through text</title>
+<description>Really simple BBcode puts a simple line through your text/message.</description>
+<autolink>http://smart-fusion.ru/storage/strike_through_text.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/strike_through_text.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/strike_through_text.jpg</panorama>
+<category>4</category>
+<author>Mega Pixel</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>4094</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='179'>
+<title>Paragraph</title>
+<description>Displaying text with paragraph.</description>
+<autolink>http://smart-fusion.ru/storage/paragraph.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/paragraph.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/paragraph.png</panorama>
+<category>4</category>
+<author>Structor</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2993</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='178'>
+<title>Members Only</title>
+<description>A BB code that will only display content to logged in Members.</description>
+<autolink>http://smart-fusion.ru/storage/members_only.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_26.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_26.jpg</panorama>
+<category>4</category>
+<author>Craig</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>4329</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='177'>
+<title>LMGTFY</title>
+<description>A more mocking way to provide someone with a google search.
+Instead of given a direct google search link the search is routed thru http://lmgtfy.com showing  the person who opens the link how they should &#39;google&#39;. After that short lesson the searchresults</description>
+<autolink>http://smart-fusion.ru/storage/lmgtfy.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_25.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_25.jpg</panorama>
+<category>4</category>
+<author>dusk</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>6763</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='176'>
+<title>Jquery Spoiler</title>
+<description>This BBcode will allow you to hide text</description>
+<autolink>http://smart-fusion.ru/storage/jquery_spoilerzip.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/jquery_spoiler.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/jquery_spoiler.png</panorama>
+<category>4</category>
+<author>DrunkeN</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>7208</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='175'>
+<title>Html5</title>
+<description>Video and audio, playing with html5 player.</description>
+<autolink>http://smart-fusion.ru/storage/html5.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/html5.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/html5.png</panorama>
+<category>4</category>
+<author>chatlaq</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>4701</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='174'>
+<title>Flatcast Radio</title>
+<description>Flatcast Radio Stream Viewer</description>
+<autolink>http://smart-fusion.ru/storage/flatcast_radio.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/flatcast_radio.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/flatcast_radio.jpg</panorama>
+<category>4</category>
+<author>chatlaq</author>
+<pubdate>04-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>10085</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='173'>
+<title>FLV Media Player</title>
+<description>This Package Includes a Free Version OF FLV Media Player® (Formerly Known As JW media Player and FLAsh Mp3 Player)
+
+The FLV Media Player is licensed under a Creative Commons License. It allows you to use, modify and redistribute the script, but only for noncommercial purposes. For corporate use, please apply for a commercial license.
+
+Package Includes: 
+-JW FLV Media Player® Free Version
+-FLV BBCode Inclusions For PHP Fusion
+-Locales: English, Azerbaijani And Turkish</description>
+<autolink>http://smart-fusion.ru/storage/flv_media_player.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_24.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_24.jpg</panorama>
+<category>4</category>
+<author>Arda</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>43115</size>
+<type>BB-Code</type>
+<certificate>3</certificate>
+</addon>
+<addon id='172'>
+<title>Google Maps</title>
+<description>Dispalys Google Maps.
+See Image For Usage Examples!</description>
+<autolink>http://smart-fusion.ru/storage/google_maps.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/google_maps.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/google_maps.png</panorama>
+<category>4</category>
+<author>Craig</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>5613</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='171'>
+<title>Docs</title>
+<description>This BB Code will allow users to add any Document Link which is available online in the BB Code, which will be opened in Google Docs Viewer which will make others to view it fast. It Opens a Document live in the Google Documents Viewer like PDF, DOC, PPT and TIFF Documents etc.</description>
+<autolink>http://smart-fusion.ru/storage/docs.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/docs.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/docs.png</panorama>
+<category>4</category>
+<author>Ankur Thakur</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>4077</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='170'>
+<title>Css Info Box</title>
+<description>Entered text in the css info box show</description>
+<autolink>http://smart-fusion.ru/storage/css_info_box.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/css_info_box.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/css_info_box.png</panorama>
+<category>4</category>
+<author>chatlaq</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>23612</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='169'>
+<title>Colorbox YouTube</title>
+<description>Installation instructions:
+
+1. Replace the default youtube bbcode with this one.
+2. Go to System Admin tab.
+3. Click the BB Codes icon.
+4. Find &quot;Colorbox YouTube Flash Video Embedder&quot; in the list.
+5. Click Enable.
+
+How to use:
+After you followed the &quot;Installation instructions&quot; go to any option that is using bbcodes and click the YouTube icon and you will get this tag: [ youtube ] [ /youtube ]
+Inside the tag add the YouTube ID, you will find it at the end of a YouTube video, Ex: youtube.com/watch?v=ID
+
+Other Info:
+The difference from this version and the one from the pack is that this one won&#39;t let you use full links, you will need to use just the ID.</description>
+<autolink>http://smart-fusion.ru/storage/colorbox_youtube.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/colorbox_youtube.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/colorbox_youtube.png</panorama>
+<category>4</category>
+<author>Falcon</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2582</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='168'>
+<title>Code &quot;Select All&quot;</title>
+<description>following a request of an italian member i modified the wooya&#39;s code bbcode in order to add a &quot;select all&quot; tool
+
+Notes:
+- Javascript come from phpBB3 forum functions and it was modified for PHP-Fusion
+- $locale[&#39;bb_code_select&#39;] is set by default to &quot;Select All&quot; if not localized
+- There&#39;s a backup file called &#39;code_bbcode_include.php.backup&#39; with the original Wooya&#39;s BBcode</description>
+<autolink>http://smart-fusion.ru/storage/code_select_all.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_23.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_23.jpg</panorama>
+<category>4</category>
+<author>lelebart</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>4416</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='167'>
+<title>Bing Search</title>
+<description>A BB code for searching Bing Search Engine.</description>
+<autolink>http://smart-fusion.ru/storage/bing_search.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_22.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_22.jpg</panorama>
+<category>4</category>
+<author>Craig</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>4578</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='166'>
+<title>Css Progressbar [Fix]</title>
+<description>Progress bar - This bbcode allows you to have a progress bar in the forum post</description>
+<autolink>http://smart-fusion.ru/storage/css_progressbar.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/css_progressbar_fix.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/css_progressbar_fix.png</panorama>
+<category>4</category>
+<author>DrunkeN</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>18412</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='165'>
+<title>Auto Table</title>
+<description>With this BBcode you can create easly tables just using it.</description>
+<autolink>http://smart-fusion.ru/storage/auto_table.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_21.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_21.jpg</panorama>
+<category>4</category>
+<author>lelebart</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.00.00</compatible>
+<size>40153</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='164'>
+<title>Amazon UK</title>
+<description>Amazon (UK) BBCode
+
+Easy access to a link in Amazon.co.uk
+
+INSTALL :
+Go to Admin - System Administration - BBCodes and enable amazon BBcode.</description>
+<autolink>http://smart-fusion.ru/storage/amazon_uk.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/amazon_uk_bb_code.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/amazon_uk_bb_code.jpg</panorama>
+<category>4</category>
+<author>Mega Pixel</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>5702</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='163'>
+<title>!AutoNoParse, NoParse </title>
+<description>With these BBcodes you can prevent smiley and other bbcode parsing.
+!autonoparse will prevent parsing also between php, code, and geshi.
+
+notes:
+In order to use &quot;noparse&quot; bbcode, you MUST enable &quot;!autonoparse&quot; - before ALL bbcodes.
+
+enjoy!</description>
+<autolink>http://smart-fusion.ru/storage/auto_no_parse.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_20.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/smart-fusion_20.jpg</panorama>
+<category>4</category>
+<author>lelebart</author>
+<pubdate>04-06-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>8872</size>
+<type>BB-Code</type>
+<certificate>0</certificate>
+</addon>
+<addon id='162'>
+<title>FP Notice</title>
+<description>A BB Code for displaying stylish CSS Notice Boxes.
+ Blue for Information notices, Yellow for Warning Notices, Green for Good Notices and Red for Bugs and Error Notices.</description>
+<autolink>http://smart-fusion.ru/storage/fp_notice_bb_code.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fp_notice_bb_code.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/fp_notice_bb_code.png</panorama>
+<category>4</category>
+<author>Fangree_Craig</author>
+<pubdate>04-05-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>11800</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='161'>
+<title>Update 7.01.01</title>
+<description>PHP-Fusion v7.01.01 update package for PHP-Fusion v7.01.00.</description>
+<autolink>http://smart-fusion.ru/storage/fusion_7_01_01_update.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fusion_update.jpeg</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/fusion_update.jpeg</panorama>
+<category>5</category>
+<author>PHP-Fusion Team</author>
+<pubdate>03-25-2012</pubdate>
+<compatible>7.01.00</compatible>
+<size>33181</size>
+<type>Update</type>
+<certificate>1</certificate>
+</addon>
+<addon id='160'>
+<title>PHP-Fusion Version</title>
+<description>PHP-Fusion Version BB Code is ideal for PHP-Fusion development, coding and support sites.
+
+ This BB Code can be used for support threads for PHP-Fusion Addons to show what version of PHP-Fusion the addon is compatible with.
+
+ The output displays a nice notice in post or comments stating which version of PHP-Fusion the Addon works with.</description>
+<autolink>http://smart-fusion.ru/storage/version_bbcode.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/version_bbcode.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/version_bbcode.png</panorama>
+<category>4</category>
+<author>Craig, Philip</author>
+<pubdate>03-25-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>13224</size>
+<type>BB-Code</type>
+<certificate>2</certificate>
+</addon>
+<addon id='159'>
+<title>CleanTheme</title>
+<description>CleanTheme converted from HTML to PHPFusion. Very nice and clean theme.</description>
+<autolink>http://smart-fusion.ru/storage/clean_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/clean_theme.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/panorams/clean_theme.png</panorama>
+<category>1</category>
+<author>BlackDragon, BlackEagle</author>
+<pubdate>02-27-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>221049</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='158'>
+<title>MW3</title>
+<description>Beautiful game template.</description>
+<autolink>http://smart-fusion.ru/storage/mw3.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/mw3.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/mw3.jpg</panorama>
+<category>1</category>
+<author>faga</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>300208</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='157'>
+<title>Neon GFX</title>
+<description>Stylish pattern in dark colors.</description>
+<autolink>http://smart-fusion.ru/storage/neongfx.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/neon_gfx.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/neon_gfx.jpg</panorama>
+<category>1</category>
+<author>gfxpixel </author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>121040</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='156'>
+<title>Stats Info</title>
+<description>The central panel, which displays a live web site statistics: number of news articles, etc.</description>
+<autolink>http://smart-fusion.ru/storage/statistika_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/stats_info.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/stats_info.png</panorama>
+<category>2</category>
+<author>BlackDragon</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>61804</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='155'>
+<title>Highslide last photo</title>
+<description>The central panel of 15 recent photos, using the effect of Highslide.</description>
+<autolink>http://smart-fusion.ru/storage/highslide_last_photo_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/highslide_last_photo.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/highslide_last_photo.jpg</panorama>
+<category>2</category>
+<author>Alex</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>101187</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='154'>
+<title>Share</title>
+<description>The central panel &quot;Share.&quot;</description>
+<autolink>http://smart-fusion.ru/storage/share_all_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/share_all_panel_screenshot.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/share_all_panel_screenshot.jpg</panorama>
+<category>2</category>
+<author>valhalla</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>8686</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='153'>
+<title>Theme Switcher </title>
+<description>Panel switch set to on your site.</description>
+<autolink>http://smart-fusion.ru/storage/theme_switcher_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_13.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_13.jpg</panorama>
+<category>2</category>
+<author>Matonor</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2074</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='152'>
+<title>DS Board</title>
+<description>This module allows members to place their ads to show them to visitors.
+
+  Features:
+  - There are headings with a possibility of adding and editing.
+  - The user can edit and delete your ads.
+  - New or edited ads are checked by the administrator.
+  - Uses the comments and ratings PHP-Fusion.
+  - There is a panel displaying the latest 5 ads.
+  - Russian and Ukrainian language localization.
+  - Advertisements that have emerged validity are automatically deleted.
+  - Admin Panel. Ads stored in the MySQL PHP-Fusion.</description>
+<autolink>http://smart-fusion.ru/storage/ds_board_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_12.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_12.jpg</panorama>
+<category>3</category>
+<author>vialish</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>23883</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='151'>
+<title>Google Pagerank</title>
+<description>Plugin which displays the Google Pagerank for the site in the sidebar with the ability to administer.</description>
+<autolink>http://smart-fusion.ru/storage/pagerank_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/google_pagerank.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/google_pagerank.png</panorama>
+<category>3</category>
+<author>Fangree_Craig</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>7488</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='150'>
+<title>FusionShop</title>
+<description>Plugin unpretentious shop.</description>
+<autolink>http://smart-fusion.ru/storage/fusionshop.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_11.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_11.jpg</panorama>
+<category>3</category>
+<author>Thora</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>48945</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='149'>
+<title>User Fields Manager </title>
+<description>The plugin allows you to manage custom fields and fields of categories of users on the same page at once.</description>
+<autolink>http://smart-fusion.ru/storage/user_fields_manager.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/user_fields_manager.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/user_fields_manager.jpg</panorama>
+<category>3</category>
+<author>popupman</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>30245</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='148'>
+<title>TV Stream</title>
+<description>Socket - which is now on TV. Shows around 17 channels.</description>
+<autolink>http://smart-fusion.ru/storage/tvstream_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/tv_strem.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/tv_strem.png</panorama>
+<category>2</category>
+<author>Razor</author>
+<pubdate>01-23-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>2207</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='147'>
+<title>MG Mahjong</title>
+<description>Mahjong - a game for PHP-Fusion v7.xx.xx
+
+Tested with IE, FF and Opera
+Compatible with PHP-Fusion v7.00.xx and 7.01.</description>
+<autolink>http://smart-fusion.ru/storage/mg_mahjong.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/mg_mahjong_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/mg_mahjong_.png</panorama>
+<category>3</category>
+<author>MarcusG</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>1016920</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='146'>
+<title>SEO Friend</title>
+<description>This plugin allows you to add meta tags to your pages.</description>
+<autolink>http://smart-fusion.ru/storage/seo_friend.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/seo_friend.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/seo_friend.png</panorama>
+<category>3</category>
+<author>PMM</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>11915</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='145'>
+<title>Player</title>
+<description>Sidebar, which displays the names of the players and their played matches.</description>
+<autolink>http://smart-fusion.ru/storage/player_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/player_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/player_panel.jpg</panorama>
+<category>3</category>
+<author>smokeman</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>8413</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='144'>
+<title>Section Maintenance </title>
+<description>A plugin which allows you to enable or disable access to certain areas of your site users and visitors without having to close the entire site.</description>
+<autolink>http://smart-fusion.ru/storage/section_maintenance.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_10.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_10.jpg</panorama>
+<category>3</category>
+<author>HobbyMan</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>78366</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='143'>
+<title>Online Users Panel with Avatar</title>
+<description>Modification of the panel &quot;Online,&quot; which displays the avatars instead of nicknames.</description>
+<autolink>http://smart-fusion.ru/storage/online_users_avatar_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/online_users_panel_with_avatar_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/online_users_panel_with_avatar_.png</panorama>
+<category>2</category>
+<author>Nick Jones</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2002</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='142'>
+<title>Latest Custom Pages</title>
+<description>Sidebar, which displays the last 5 custom pages.</description>
+<autolink>http://smart-fusion.ru/storage/latest_custompages_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/latest_custom_pages.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/latest_custom_pages.jpg</panorama>
+<category>2</category>
+<author>smokeman</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2557</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='141'>
+<title>Facebook Like</title>
+<description>This panel allows the user to share content with friends on Facebook.</description>
+<autolink>http://smart-fusion.ru/storage/facebook_like_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_9.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_9.jpg</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2074</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='140'>
+<title>jscolor</title>
+<description>The sidebar, which allows you to choose one or the other color to be set with the code.</description>
+<autolink>http://smart-fusion.ru/storage/jscolor_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/jscolor.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/jscolor.jpg</panorama>
+<category>2</category>
+<author>behrooz</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>15792</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='139'>
+<title>Official PHP-Fusion NSS Network</title>
+<description>Sidebar official support sites PHP-Fusion.</description>
+<autolink>http://smart-fusion.ru/storage/support_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/phpfusion_nss_network_panel_preview.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/phpfusion_nss_network_panel_preview.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>26838</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='138'>
+<title>In memoriam</title>
+<description>A simple funeral panel in honor of the founder of CMS PHP-Fusion Nick Jones.</description>
+<autolink>http://smart-fusion.ru/storage/in_memoriam_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_8.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_8.jpg</panorama>
+<category>2</category>
+<author>SZAMigabi</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>992</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='137'>
+<title>Forum Threads Panel with Avatar</title>
+<description>Modification of the standard list pane to the forum, which additionally displays avatar.</description>
+<autolink>http://smart-fusion.ru/storage/forum_threads_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/forum_threads_panel_with_avatar.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/forum_threads_panel_with_avatar.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1951</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='136'>
+<title>Ajax Calender</title>
+<description>A simple panel with a calendar on AJAX.</description>
+<autolink>http://smart-fusion.ru/storage/ajax_calender_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_7.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_7.jpg</panorama>
+<category>2</category>
+<author>bartek124</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3801</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='135'>
+<title>Latest Forum Posts</title>
+<description>Sidebar with the scrolling of the latest messages from the forum.</description>
+<autolink>http://smart-fusion.ru/storage/latest_forum_posts_side_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/latest_forum_posts.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/latest_forum_posts.png</panorama>
+<category>2</category>
+<author>Ankur Thakur</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2531</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='134'>
+<title>Stop Forum Spam</title>
+<description>With this panel, you unwind from the pama cmozhete as The panel will obnaruzhat spam stopforumspam API and entered in the blacklist.</description>
+<autolink>http://smart-fusion.ru/storage/stop_forum_spam_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_6.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_6.jpg</panorama>
+<category>2</category>
+<author>lelebart</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2894</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='133'>
+<title>Featured Weblinks</title>
+<description>The panel, which displays a random link to a screenshot of the site, which is generated by means of Thumbshots.com.</description>
+<autolink>http://smart-fusion.ru/storage/featured_weblink_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/featured_weblinks.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/featured_weblinks.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2226</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='132'>
+<title>Last article center</title>
+<description>The central panel, which displays in two columns of the latest articles 1 and 2 categories.</description>
+<autolink>http://smart-fusion.ru/storage/last_article_center_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/last_article_center.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/last_article_center.jpg</panorama>
+<category>2</category>
+<author>Alex</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2735</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='131'>
+<title>Spy Center News</title>
+<description>The central panel shows the latest 10 news theme with a summary and image kategorii.Takzhe author points out, the number of comments, number of reads, the category of news.</description>
+<autolink>http://smart-fusion.ru/storage/spy_center_news_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/spy_center_news.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/spy_center_news.png</panorama>
+<category>2</category>
+<author>Mehmet</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>25232</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='130'>
+<title>Vertical News Ticker </title>
+<description>Sidebar last 5 news with vertical auto scrolling.
+
+PS: you can easily change the amount of scrolling news.</description>
+<autolink>http://smart-fusion.ru/storage/vertical_news_ticker_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/vertical_news_ticker.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/vertical_news_ticker.jpg</panorama>
+<category>2</category>
+<author>jikaka</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3392</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='129'>
+<title>iTheme2</title>
+<description>The pattern in the style of Mac OS. Converted to Wordpress.</description>
+<autolink>http://smart-fusion.ru/storage/itheme2.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/itheme2.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/itheme2.png</panorama>
+<category>1</category>
+<author>jikaka</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>88568</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='128'>
+<title>L-AMANT</title>
+<description>Nice simple theme with various built-in add-ons.</description>
+<autolink>http://smart-fusion.ru/storage/l-amant.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/l-amant.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/l-amant.png</panorama>
+<category>1</category>
+<author>HaYaLeT</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>43825</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='127'>
+<title>GlossyLight</title>
+<description>The pattern in the style of Vista.</description>
+<autolink>http://smart-fusion.ru/storage/glossylight.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/glossylight.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/glossylight.jpg</panorama>
+<category>1</category>
+<author>Mangee</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>499555</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='126'>
+<title>GarlandLike</title>
+<description>Beautiful theme in blue and blue colors.</description>
+<autolink>http://smart-fusion.ru/storage/garlandlike.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/garlandlike.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/garlandlike.jpg</panorama>
+<category>1</category>
+<author>SK1 Project</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>39106</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='125'>
+<title>GameX</title>
+<description>Game theme in dark colors.</description>
+<autolink>http://smart-fusion.ru/storage/gamex.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/gamex.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/gamex.png</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>393303</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='124'>
+<title>Games GTA</title>
+<description>The game pattern on GTA.</description>
+<autolink>http://smart-fusion.ru/storage/games_gta.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/games_gta.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/games_gta.jpg</panorama>
+<category>1</category>
+<author>Decolor</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>387771</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='123'>
+<title>FS16</title>
+<description>Interesting shablonchik in dark yellow colors.</description>
+<autolink>http://smart-fusion.ru/storage/fs16.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fs16.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/fs16.jpg</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>87023</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='122'>
+<title>Filmastau</title>
+<description>Dark pattern oriented at video site.</description>
+<autolink>http://smart-fusion.ru/storage/filmastau.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/filmastau.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/filmastau.jpg</panorama>
+<category>1</category>
+<author>Filmastau.lt</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>96708</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='121'>
+<title>F1</title>
+<description>Great template on Formula 1.</description>
+<autolink>http://smart-fusion.ru/storage/f1.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/f1.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/f1.png</panorama>
+<category>1</category>
+<author>Faga</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>436932</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='120'>
+<title>Ecstatic</title>
+<description>Elegant theme in the style of techno.</description>
+<autolink>http://smart-fusion.ru/storage/ecstatic.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ecstatic.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/ecstatic.png</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>1049716</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='119'>
+<title>Football</title>
+<description>Athletic pattern on football.</description>
+<autolink>http://smart-fusion.ru/storage/football.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/football_theme_.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/football_theme_.jpg</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>633476</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='118'>
+<title>Dirt 2</title>
+<description>The pattern on the car theme with light colors.</description>
+<autolink>http://smart-fusion.ru/storage/dirt_2.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/dirt_2.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/dirt_2.jpg</panorama>
+<category>1</category>
+<author>Faga</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>372497</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='117'>
+<title>Fall</title>
+<description>The bright pattern on the fall.</description>
+<autolink>http://smart-fusion.ru/storage/fall_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fall_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/fall_theme.jpg</panorama>
+<category>1</category>
+<author>Faga</author>
+<pubdate>01-16-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>145571</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='116'>
+<title>Accordion Navigation Panel</title>
+<description>Navigation bar that uses the plugin Jquery.</description>
+<autolink>http://smart-fusion.ru/storage/accordion_navigation_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_5.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_5.jpg</panorama>
+<category>2</category>
+<author>Wooya</author>
+<pubdate>01-13-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>5720</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='115'>
+<title>Visit history for Ajax</title>
+<description>Sidebar stories of site visits 
+by users to Ajax.</description>
+<autolink>http://smart-fusion.ru/storage/last_seen_users_panel_1.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_4.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_4.jpg</panorama>
+<category>2</category>
+<author>WeDgEMasTeR</author>
+<pubdate>01-13-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>6876</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='114'>
+<title>Help for admin</title>
+<description>Plug-in that offers study guide to the admin panel PHP-Fusion novice admin.
+There is an opportunity to study leadership in two formats: HTML and CHM.</description>
+<autolink>http://smart-fusion.ru/storage/help_admins.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/help_admins_preview.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/help_admins_preview.jpg</panorama>
+<category>3</category>
+<author>jikaka</author>
+<pubdate>01-13-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>5624</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='113'>
+<title>Annonser</title>
+<description>The panel, which allows you to display ads on your site in articles, news, downloads or custom pages.</description>
+<autolink>http://smart-fusion.ru/storage/ads_panel_1.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ads_panel_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/ads_panel_.png</panorama>
+<category>3</category>
+<author>Fangree Productions</author>
+<pubdate>01-13-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>12429</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='112'>
+<title>Event calendar </title>
+<description>A plugin which allows you to implement on your website calendar of events.</description>
+<autolink>http://smart-fusion.ru/storage/aw_eca.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/event_calendar.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/event_calendar.jpg</panorama>
+<category>3</category>
+<author>Artur Wiebe</author>
+<pubdate>01-13-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>157049</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='111'>
+<title>GU Contact</title>
+<description>A small plug-in list to use as a plug-kontaktov.Mozhno friends.</description>
+<autolink>http://smart-fusion.ru/storage/gu_contact.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/gu_contact.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/gu_contact.png</panorama>
+<category>3</category>
+<author>Yodix</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>11420</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='110'>
+<title>Image Wall</title>
+<description>Wall plug-in all the images from your existing albums.</description>
+<autolink>http://smart-fusion.ru/storage/image_wall.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/image_wall.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/image_wall.jpg</panorama>
+<category>3</category>
+<author>NetriX</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>13937</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='109'>
+<title>Projects</title>
+<description>Plug-in for project management. You can add the version of descriptions, screenshots. Suitable for various purposes.</description>
+<autolink>http://smart-fusion.ru/storage/projects_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_2.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_2.jpg</panorama>
+<category>3</category>
+<author>bartek124</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>35641</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='108'>
+<title>Google Plus One</title>
+<description>Adds a button to Google +1 to any location on your website.</description>
+<autolink>http://smart-fusion.ru/storage/google_plus_one_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_1.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_1.jpg</panorama>
+<category>2</category>
+<author>Gaming4JC</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1865</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='107'>
+<title>Share This v5</title>
+<description>Plug-in that allows users to share information, adding them to the social. the network. Added Russian locale. Added support for VKontakte, mail.ru and classmates.</description>
+<autolink>http://smart-fusion.ru/storage/share_this.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/share_this_v5.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/share_this_v5.jpg</panorama>
+<category>3</category>
+<author>Fangree_Craig</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>165880</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='106'>
+<title>Site Map</title>
+<description>Plug-in site map which shows all sections of the site on one page. Works on all versions of the 7 th.</description>
+<autolink>http://smart-fusion.ru/storage/site_map.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion.jpg</panorama>
+<category>3</category>
+<author>Wooya</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>4132</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='105'>
+<title>Forumny bot - ticker</title>
+<description>Maud is perfect for forumnoy advertising (google adsense) ads, and more.</description>
+<autolink>http://smart-fusion.ru/storage/forum_bot_agent_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_3.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_3.jpg</panorama>
+<category>3</category>
+<author>Wooya</author>
+<pubdate>01-12-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>9910</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='104'>
+<title>Birthday</title>
+<description>The panel, which shows birthdays for today / tomorrow, as well as birthday party.</description>
+<autolink>http://smart-fusion.ru/storage/birthday_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/birthday.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/birthday.jpg</panorama>
+<category>3</category>
+<author>Jankokuk</author>
+<pubdate>01-11-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>9394</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='103'>
+<title>Unactivated Users</title>
+<description>A plugin which allows you to manage Validating Members.
+It is possible to remove, once again send a letter with a link to reactivate.</description>
+<autolink>http://smart-fusion.ru/storage/unactivated_users.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/unactivated_users.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/unactivated_users.jpg</panorama>
+<category>3</category>
+<author>Triton</author>
+<pubdate>01-11-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>7834</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='102'>
+<title>Server status</title>
+<description>Adding servers to the panel and display the status of services on this server.</description>
+<autolink>http://smart-fusion.ru/storage/server_status_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/server_status.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/server_status.jpg</panorama>
+<category>3</category>
+<author>ShadowMage</author>
+<pubdate>01-11-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>11684</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='101'>
+<title>Forum Icons</title>
+<description>This plugin allows you to add to each section on the forum icons.</description>
+<autolink>http://smart-fusion.ru/storage/forum_icons.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/forum_icons.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/forum_icons.png</panorama>
+<category>3</category>
+<author>Yodix</author>
+<pubdate>01-11-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>15487</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='100'>
+<title>Dev.Rus</title>
+<description>Subject to the dark-bright colors with built-in slider images.</description>
+<autolink>http://smart-fusion.ru/storage/devrus.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/dev_rus.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/dev_rus.png</panorama>
+<category>1</category>
+<author>jikaka</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>120626</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='99'>
+<title>Dark Knight</title>
+<description>Beautiful theme from Batman.</description>
+<autolink>http://smart-fusion.ru/storage/dark_knight.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/dark_knight.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/dark_knight.jpg</panorama>
+<category>1</category>
+<author>magikdesign</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>311087</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='98'>
+<title>Cumulus</title>
+<description>Forumnyh Cloud-Tags.</description>
+<autolink>http://smart-fusion.ru/storage/cumulus_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/cumulus.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/cumulus.jpg</panorama>
+<category>2</category>
+<author>Domi </author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>38669</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='97'>
+<title>Forum Info </title>
+<description>Sidebar information for the forum, shows its subject, message subscription.</description>
+<autolink>http://smart-fusion.ru/storage/forum_info_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/forum_info.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/forum_info.png</panorama>
+<category>2</category>
+<author>Nick Jones</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>5353</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='96'>
+<title>Myslide Panel Left </title>
+<description>Боковая панель, которая показывает последние 10 фото из галереи в виде слайд-шоу.</description>
+<autolink>http://smart-fusion.ru/storage/myslide_panel_left.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/myslide_panel_left.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/myslide_panel_left.png</panorama>
+<category>2</category>
+<author>HaYaLeT</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3799</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='95'>
+<title>Countdown</title>
+<description>Panel countdown on the site until a specific event.</description>
+<autolink>http://smart-fusion.ru/storage/countdown_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/countdown_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/countdown_panel.png</panorama>
+<category>2</category>
+<author>Merklin</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>80730</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='94'>
+<title>Birthdays this month</title>
+<description>The panel, which displays the users birthdays this month. If a birthday this month, the panel will not be displayed.</description>
+<autolink>http://smart-fusion.ru/storage/months_birthday_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusions.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusions.jpg</panorama>
+<category>2</category>
+<author>GMUDuckman</author>
+<pubdate>01-08-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>4451</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='93'>
+<title>CleanGaming</title>
+<description>Nice game shablonchik.</description>
+<autolink>http://smart-fusion.ru/storage/cleangaming.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/cleangaming.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/cleangaming.jpg</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>235801</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='92'>
+<title>CSzone</title>
+<description>The game pattern on the theme of CS.</description>
+<autolink>http://smart-fusion.ru/storage/cszone.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/cszone.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/cszone.jpg</panorama>
+<category>1</category>
+<author>aNdi</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>401332</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='91'>
+<title>BlackOPS</title>
+<description>The game pattern.</description>
+<autolink>http://smart-fusion.ru/storage/blackops.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/blackops_gaming.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/blackops_gaming.jpg</panorama>
+<category>1</category>
+<author>NetriX</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>766952</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='90'>
+<title>AeroLime </title>
+<description>Beautiful theme in dark colors.</description>
+<autolink>http://smart-fusion.ru/storage/aerolime.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/aerolime_.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/aerolime_.jpg</panorama>
+<category>1</category>
+<author>Joe Allen</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>43421</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='89'>
+<title>BeyondAbstract</title>
+<description>Cute and colorful pattern.</description>
+<autolink>http://smart-fusion.ru/storage/beyondabstract.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/beyondabstract.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/beyondabstract.jpg</panorama>
+<category>1</category>
+<author>Unbekannt</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>594748</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='88'>
+<title>Be free</title>
+<description>Bright yellow theme in blue tones.</description>
+<autolink>http://smart-fusion.ru/storage/be-free.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/be_free.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/be_free.png</panorama>
+<category>1</category>
+<author>Faga</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>114957</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='87'>
+<title>Badcompany2</title>
+<description>Excellent theme game theme.</description>
+<autolink>http://smart-fusion.ru/storage/badcompany2.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/badcompany2.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/badcompany2.jpg</panorama>
+<category>1</category>
+<author>2bad</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>649790</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='86'>
+<title>Awake</title>
+<description>A dark theme with drop-down menu with jQuery and built an additional menu in the basement of the site.</description>
+<autolink>http://smart-fusion.ru/storage/awake.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/awake.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/awake.png</panorama>
+<category>1</category>
+<author>Fangree_Craig</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>92463</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='85'>
+<title>Army</title>
+<description>Subject to the Army&#39;s theme in the style of khaki.</description>
+<autolink>http://smart-fusion.ru/storage/army.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/army.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/army.jpg</panorama>
+<category>1</category>
+<author>Voodoo</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>142805</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='84'>
+<title>Arkadaslik</title>
+<description>The topic I think may be suitable for women site</description>
+<autolink>http://smart-fusion.ru/storage/arkadaslik.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/arkadaslik.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/arkadaslik.jpg</panorama>
+<category>1</category>
+<author>The.Need</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>380390</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='83'>
+<title>Apollo</title>
+<description>The industrial theme with light colors.</description>
+<autolink>http://smart-fusion.ru/storage/apollo.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/apollo.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/apollo.jpg</panorama>
+<category>1</category>
+<author>Harly</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>103936</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='82'>
+<title>2Minimalistic</title>
+<description>A simple pattern with a minimum of graphic elements.</description>
+<autolink>http://smart-fusion.ru/storage/2minimalistic.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/2minimalistic.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/2minimalistic.png</panorama>
+<category>1</category>
+<author>SimpleVision </author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>18516</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='81'>
+<title>Android Blue</title>
+<description>Great template on &quot;android&quot; in the blue spectrum.</description>
+<autolink>http://smart-fusion.ru/storage/android-blue.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/android_blue.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/android_blue.png</panorama>
+<category>1</category>
+<author>Faga</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>204430</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='80'>
+<title>Ambient</title>
+<description>Stylish dark Tiomka in the style of Vista.</description>
+<autolink>http://smart-fusion.ru/storage/ambient.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ambient.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/ambient.jpg</panorama>
+<category>1</category>
+<author>Si Fusion</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>351626</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='79'>
+<title>4Newspapers</title>
+<description>The original theme with a very simplistic design, to print the contents of the pages.</description>
+<autolink>http://smart-fusion.ru/storage/4newspapers.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/newspapers.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/newspapers.jpg</panorama>
+<category>1</category>
+<author>SimpleVision</author>
+<pubdate>01-07-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>42631</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='78'>
+<title>Referer Panel</title>
+<description>The plugin that displays a panel transitions from different sites for you to share.</description>
+<autolink>http://smart-fusion.ru/storage/referer_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_14.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_14.jpg</panorama>
+<category>3</category>
+<author>slaughter</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>24497</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='77'>
+<title>Advanced Custom Pages </title>
+<description>Plug-in extends the capabilities of standard user pages. If you want to allow some admins edit only certain pages, but not all, then this mod is for you.</description>
+<autolink>http://smart-fusion.ru/storage/advanced_custom_pages_1.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/advanced_custom_pages_1.gif</preview>
+<panorama>http://smart-fusion.ru/images/addons/advanced_custom_pages_1.gif</panorama>
+<category>3</category>
+<author>PMM</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>10086</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='76'>
+<title>Forum Attachments List </title>
+<description>Page with a list of all attachments on the forum.</description>
+<autolink>http://smart-fusion.ru/storage/forum_attachments_list.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/forum_attachments_list.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/forum_attachments_list.jpg</panorama>
+<category>3</category>
+<author>smokeman</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>16044</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='75'>
+<title>Dynamisk meny</title>
+<description>A plugin which allows you to do your own dynamic tree menu.</description>
+<autolink>http://smart-fusion.ru/storage/dynamic_menu.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/dynamic_menu.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/dynamic_menu.jpg</panorama>
+<category>3</category>
+<author>arced</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>51382</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='74'>
+<title>Comments Management (AJAX)</title>
+<description>A plugin which allows you to manage comments directly from the control panel without having to go to a page where they have been added.</description>
+<autolink>http://smart-fusion.ru/storage/comments_management.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/comments_management_ajax.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/comments_management_ajax.jpg</panorama>
+<category>3</category>
+<author>khalid545</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.02.xx</compatible>
+<size>15878</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='73'>
+<title>Admin Reset </title>
+<description>A plugin which allows you to reset the username / password admin.
+A new password will be sent to the e-mail.</description>
+<autolink>http://smart-fusion.ru/storage/admin_reset.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_15.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_15.jpg</panorama>
+<category>3</category>
+<author>Digitanium</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>8091</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='72'>
+<title>ACL </title>
+<description>Page control users&#39; access to basic and advanced settings. Allows you to restrict user access to specific pages.</description>
+<autolink>http://smart-fusion.ru/storage/acl.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/acl.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/acl.jpg</panorama>
+<category>3</category>
+<author>arced</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.01.xx</compatible>
+<size>61484</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='71'>
+<title>Bad login</title>
+<description>This plug-in writes all the bad / wrong input of users and visitors.</description>
+<autolink>http://smart-fusion.ru/storage/bad_login.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_16.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_16.jpg</panorama>
+<category>3</category>
+<author>Ian Unruh</author>
+<pubdate>01-04-2012</pubdate>
+<compatible>7.00.xx</compatible>
+<size>2478</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='70'>
+<title>Flash MP3 Player</title>
+<description>The panel with the music player.</description>
+<autolink>http://smart-fusion.ru/storage/flash_mp3_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/flash_mp3_player.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/flash_mp3_player.jpg</panorama>
+<category>2</category>
+<author>snowballsn</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>265030</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='69'>
+<title>Welcome Slideshow</title>
+<description>This slide shows the panel, using pan and zoom effects, taken from Joomla and configured for PHP-Fusion. Through the admin panel selected images, enter text and link. The text will be displayed in the bar at the bottom of each image.</description>
+<autolink>http://smart-fusion.ru/storage/welcome_slideshow_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_17.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_17.jpg</panorama>
+<category>2</category>
+<author>HobbyMan</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>42097</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='68'>
+<title>Greeny</title>
+<description>A simple and interesting theme in shades of green.</description>
+<autolink>http://smart-fusion.ru/storage/greeny.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/greeny_theme_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/greeny_theme_.png</panorama>
+<category>1</category>
+<author>templatemo</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>92406</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='67'>
+<title>WOW 3</title>
+<description>Chic pattern with elements of flash.</description>
+<autolink>http://smart-fusion.ru/storage/wow_3.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/wow_3.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/wow_3.jpg</panorama>
+<category>1</category>
+<author>R3sponsabl3</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>991576</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='66'>
+<title>Presentation cycle </title>
+<description>The central panel display news as miniprezentatsii, which uses tsikl.Prezentatsiya has an indicator that shows when a new slide poyavitsya.Ustanovka standard, upload the folder with the panel in the infusions, and then create a new admin in the central panel, do not forget to activate it.</description>
+<autolink>http://smart-fusion.ru/storage/presentation_cycle_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/presentation_cycle_preview.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/presentation_cycle_preview.jpg</panorama>
+<category>2</category>
+<author>Falcon Pell</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>28005</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='65'>
+<title>Visit history for Ajax</title>
+<description>Sidebar stories of site visits by users to Ajax.</description>
+<autolink>http://smart-fusion.ru/storage/last_seen_users_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_18.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_18.jpg</panorama>
+<category>2</category>
+<author>WeDgEMasTeR</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.00.xx</compatible>
+<size>7508</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='64'>
+<title>RSS - Feeds</title>
+<description>Sidebar displays RSS feeds on your site, includes - download, news, articles, forum (topics), and references.4 color schemes to choose from icons.Setting the standard - Load panel switch in the admin.</description>
+<autolink>http://smart-fusion.ru/storage/rss_feeds_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/smart-fusion_19.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/smart-fusion_19.jpg</panorama>
+<category>2</category>
+<author>HobbyMan</author>
+<pubdate>12-25-2011</pubdate>
+<compatible>7.00.xx</compatible>
+<size>26259</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='63'>
+<title>Faq</title>
+<description>Update for php-fusion . System-otvet.Ustanovka question: how to install the plugin from the usual adminkiVozmozhnosti: 
+
+1. Adding questions 
+2. Answers to questions in the form of comments feeds 
+3. View a list of questions 
+4. Edit / delete questions from admin</description>
+<autolink>http://smart-fusion.ru/storage/faq_infusion.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/faq_infusion.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/faq_infusion.png</panorama>
+<category>3</category>
+<author>Razor</author>
+<pubdate>12-15-2011</pubdate>
+<compatible>7.00.xx</compatible>
+<size>29400</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='62'>
+<title>User&#39;s Voice </title>
+<description>Plug-in that offers users to specify the priority projects for the development, based on their own preferences.Users are able to offer components, and vote for the most important ones. For each user has 10 points in the disposal that he can spend on a particular preference.</description>
+<autolink>http://smart-fusion.ru/storage/fusion_voice_next.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fusion_voice.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/fusion_voice.png</panorama>
+<category>3</category>
+<author>Senzo</author>
+<pubdate>12-15-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>23079</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='61'>
+<title>Ajax Poll</title>
+<description>Plug-in interviews on Ajax, which allows you to manage surveys online, where to vote can not only users but also the guests.</description>
+<autolink>http://smart-fusion.ru/storage/ajax_poll_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ajax_poll_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/ajax_poll_panel.jpg</panorama>
+<category>3</category>
+<author>khalid545</author>
+<pubdate>12-15-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>10038</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='60'>
+<title>Hayaletsevgili News</title>
+<description>The central panel last 7 news, which are displayed as a slide show.</description>
+<autolink>http://smart-fusion.ru/storage/hayaletsevgili_news_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/hayaletsevgili_news_panel_.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/hayaletsevgili_news_panel_.png</panorama>
+<category>2</category>
+<author>HaYaLeT</author>
+<pubdate>12-15-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>116999</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='59'>
+<title>Most Read News</title>
+<description>The panel&#39;s most popular news on the week, month and year.</description>
+<autolink>http://smart-fusion.ru/storage/most_read_news_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/most_read_news_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/most_read_news_panel.png</panorama>
+<category>2</category>
+<author>HaYaLeT</author>
+<pubdate>12-15-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3874</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='58'>
+<title>FP Profile Wall </title>
+<description>The plug, which organizes the user&#39;s profile wall for comment.</description>
+<autolink>http://smart-fusion.ru/storage/fp_profile_wall.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fp_profile_wall.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/fp_profile_wall.png</panorama>
+<category>3</category>
+<author>Fangree_Craig</author>
+<pubdate>12-14-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>60640</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='57'>
+<title>Snow Storm</title>
+<description>This plugin will allow you to make the perfect snow storm on your website.</description>
+<autolink>http://smart-fusion.ru/storage/snow_storm.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/snow_storm.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/snow_storm.jpg</panorama>
+<category>3</category>
+<author>Falcon</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>18306</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='56'>
+<title>Enhanced Online Users</title>
+<description>Extended central panel, &quot;Who on this site.&quot;</description>
+<autolink>http://smart-fusion.ru/storage/enhanced_online_users_panel_1.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/enhanced_online_users_centre_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/enhanced_online_users_centre_panel.jpg</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>15879</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='55'>
+<title>Floating Bar</title>
+<description>Floating toolbar plugin for your web site.</description>
+<autolink>http://smart-fusion.ru/storage/floating_bar_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/floating_bar.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/floating_bar.jpg</panorama>
+<category>3</category>
+<author>Lippke</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>96584</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='54'>
+<title>DF Development</title>
+<description>Plug-in for developers, allowing users to keep abreast of all things developed.</description>
+<autolink>http://smart-fusion.ru/storage/df_development_infusion.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/df_development.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/df_development.png</panorama>
+<category>3</category>
+<author>DrunkeN</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>106620</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='53'>
+<title>Horizontal navigation</title>
+<description>Plugin to control the horizontal navigation bar.</description>
+<autolink>http://smart-fusion.ru/storage/horizontal_navigation_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/horizontal_navigation_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/horizontal_navigation_panel.jpg</panorama>
+<category>3</category>
+<author>bartek124</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>19117</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='52'>
+<title>Quicksign</title>
+<description>The drop-down panel Alternative authorization.</description>
+<autolink>http://smart-fusion.ru/storage/quicksign_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/quicksign_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/quicksign_panel.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>12-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>24679</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='51'>
+<title>Enigma</title>
+<description>This is the Enigma theme with a drop-down menu and a userbar.</description>
+<autolink>http://smart-fusion.ru/storage/enigma.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/enigma.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/enigma.jpg</panorama>
+<category>1</category>
+<author>Harly</author>
+<pubdate>12-12-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>58932</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='50'>
+<title>LOA Shoutbox Center</title>
+<description>
+PHP-Fusion Argentina is pleased to announce our first public release. We give you LOA Shoutbox Center Panel. This is an enhanced version of the PHP-Fusion Shoutbox. This version shows you the user status (online/offline) in the site and the user avatar. Also you have the possibility to show a custom message in the shoutbox as a warning for example. The code used is from PHP-Fusion v7.01.03.</description>
+<autolink>http://smart-fusion.ru/storage/shoutbox_center_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/shoutbox_center_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/shoutbox_center_panel.jpg</panorama>
+<category>3</category>
+<author>PhAnToM</author>
+<pubdate>12-12-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>26487</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='49'>
+<title>Ads</title>
+<description>Ads Panel to display ads (eg. AdSense) on Articles, Custom Pages, Downloads, FAQ, News, and Photogallery.</description>
+<autolink>http://smart-fusion.ru/storage/ads_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ads_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/ads_panel.png</panorama>
+<category>3</category>
+<author>Craig</author>
+<pubdate>12-12-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>8599</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='48'>
+<title>Tags System</title>
+<description>This is both an infusion and a panel that allows you to &quot;Tag&quot; every news item, photo, article and custom page on your site. This will make is much easier for your visitors to find what they&#39;re looking for. The tags are randomly displayed in a side panel, visitors can click a tag word and this will open a page displaying every thing you&#39;ve tagged with that word.</description>
+<autolink>http://smart-fusion.ru/storage/tags_system_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/tags_system_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/tags_system_panel.jpg</panorama>
+<category>3</category>
+<author>Philip</author>
+<pubdate>12-12-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>24256</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='47'>
+<title>Blue Christmas</title>
+<description>Blue Christmas blog theme.</description>
+<autolink>http://smart-fusion.ru/storage/blue_christmas.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/blue_christmas.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/blue_christmas.png</panorama>
+<category>1</category>
+<author>assensvejdk</author>
+<pubdate>12-11-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>540080</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='46'>
+<title>Advanced Custom Pages</title>
+<description> 1. Define page editors (administrators) based on page level.
+2. Select a page writer different from yourself.
+3. Show writer information (optional).
+4. Show last revision (optional).
+Note: Super administrators can edit all pages.</description>
+<autolink>http://smart-fusion.ru/storage/advanced_custom_pages.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/advanced_custom_pages.gif</preview>
+<panorama>http://smart-fusion.ru/images/addons/advanced_custom_pages.gif</panorama>
+<category>3</category>
+<author>PMM</author>
+<pubdate>12-11-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>9162</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='45'>
+<title>jCarousel</title>
+<description>The central panel with a circular carousel of images from your photogallery.
+The panel was made for version 7.02, but maybe that will work on all seven different versions.</description>
+<autolink>http://smart-fusion.ru/storage/jcarousel_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/jcarousel_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/jcarousel_panel.jpg</panorama>
+<category>2</category>
+<author>jikaka</author>
+<pubdate>12-11-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>44888</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='44'>
+<title>Facebook Comments</title>
+<description>This is an alternative to the built-in comments system. It allows Facebook users to leave comments on your site in News, Articles, Photos, Downloads and Custom Pages.This is a completely standalone system that does not require any core file modification.</description>
+<autolink>http://smart-fusion.ru/storage/comment_include_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/facebook_comments.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/facebook_comments.jpg</panorama>
+<category>2</category>
+<author>Philip</author>
+<pubdate>12-11-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2140</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='43'>
+<title>Show IP</title>
+<description>This panel shows the users IP , OS, country, and browser.</description>
+<autolink>http://smart-fusion.ru/storage/show_ip_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/show_ip.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/show_ip.png</panorama>
+<category>2</category>
+<author>behrooz</author>
+<pubdate>12-11-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1782</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='42'>
+<title>News Archive</title>
+<description>This is a side panel which will list all your news items by year and month from newest to oldest.</description>
+<autolink>http://smart-fusion.ru/storage/news_archives_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/news_archives_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/news_archives_panel.png</panorama>
+<category>2</category>
+<author>Philip</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3318</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='41'>
+<title>Social</title>
+<description>You can put your accounts at social sites :Facebook, Youtube, Twitter</description>
+<autolink>http://smart-fusion.ru/storage/social_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/social_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/social_panel.jpg</panorama>
+<category>3</category>
+<author>PHPar</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>35508</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='40'>
+<title>Puzzle Page</title>
+<description>Mini comic plugin that can brighten up the leisure user by collecting a random puzzle from your image galleries on the site. 
+</description>
+<autolink>http://smart-fusion.ru/storage/puzzle_page.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/puzzle_page.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/puzzle_page.jpg</panorama>
+<category>3</category>
+<author>jikaka</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>6491</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='39'>
+<title>Fp tabs</title>
+<description>FP Tabs Panel is an JQuery and CSS Tabs Panel infusion for setting notices, info or messages on your site.
+Features :
+1. Tabs designed using JQuery &amp; Css
+2. Allows up to 5 tabs
+3. Option to enable or disable each tab
+4. Tabs styles can be set in the FP Tabs Panel infusion Admin and it uses a nice jquery colour picker for easy styling.
+5. Each tab can have its own name and content which can each be set in the FP 7. 6. Tabs Panel infusion admin.
+7.Uses BB codes to parse tabs content</description>
+<autolink>http://smart-fusion.ru/storage/fp_tabs_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fp_tabs_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/fp_tabs_panel.png</panorama>
+<category>3</category>
+<author>Fangree_Craig</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>37145</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='38'>
+<title>Yahoo Weather Feed</title>
+<description>The panel of Yahoo! Weather forecast with automatic scrolling on jQuery.</description>
+<autolink>http://smart-fusion.ru/storage/yahoo_weather_feed_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/yahoo_weather_feed_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/yahoo_weather_feed_panel.png</panorama>
+<category>2</category>
+<author>jikaka</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>68119</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='37'>
+<title>Site Content</title>
+<description>Panel showing number of: Articles , News, Photos, Private messages, Links, Downloads, Custom Pages, BB Coder, Comments, Shouts, Forum Threads, Forum Posts, Attached Files</description>
+<autolink>http://smart-fusion.ru/storage/site_content_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/site_content_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/site_content_panel.jpg</panorama>
+<category>2</category>
+<author>smokeman</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2414</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='36'>
+<title>jQuery Translate</title>
+<description>This is an Ultimate jQuery Translate Panel which allows Users to Translate on the same page without going to Google Translate or reloading the Page</description>
+<autolink>http://smart-fusion.ru/storage/jquery_translate_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/jquery_translate_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/jquery_translate_panel.png</panorama>
+<category>2</category>
+<author>Ankur Thakur</author>
+<pubdate>12-09-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>48901</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='35'>
+<title>Hayaletsevgili Online Users</title>
+<description>This panel show last 5 and more 5 users with avatar . Last seen minute,hours, days,weeks.
+Avatar&#39;s title is user&#39;s location and there are last seen date.</description>
+<autolink>http://smart-fusion.ru/storage/hayaletsevgili_online_users_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/hayaletsevgili_online_users_panelpng.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/hayaletsevgili_online_users_panelpng.png</panorama>
+<category>2</category>
+<author>HaYaLeT</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>23025</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='34'>
+<title>Simple News Scroller Side</title>
+<description>As the Name explains everything to you, this is a Side Panel which will Display Latest 5 news as a Down-Up Sliding News with showing News Subject, News Category link and the User who submitted the News. The Live Demo will be visible on the Left Side of the page of Link.</description>
+<autolink>http://smart-fusion.ru/storage/simple_news_scroller_side_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/simple_news_scroller_side_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/simple_news_scroller_side_panel.png</panorama>
+<category>2</category>
+<author>Ankur Thakur</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2085</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='33'>
+<title>Double Articles</title>
+<description>Double Articles Panel is a panel where you can see some info about Articles.
+
+FEATURES SHOWING:
+
+5 Random Articles.
+5 Most popular Articles.
+
+Info about how many times each Article for it self had being read.
+Info about how many times all Articles had being read.
+Info about how many Articles there is in the database.</description>
+<autolink>http://smart-fusion.ru/storage/double_articles_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/double_articles_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/double_articles_panel.jpg</panorama>
+<category>2</category>
+<author>smokeman</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2374</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='32'>
+<title>Feedback</title>
+<description>Quick connection with the administration of the site using a modal window on JQuery.</description>
+<autolink>http://smart-fusion.ru/storage/feedback_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/598.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/598.jpg</panorama>
+<category>2</category>
+<author>jikaka</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>62111</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='31'>
+<title>Graphical Counter</title>
+<description>Graphical Counter Panel shows number of unique visitors in a side-panel with images/icons - instead of the ordinary text-figures.</description>
+<autolink>http://smart-fusion.ru/storage/graphical_counter_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/580.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/580.jpg</panorama>
+<category>2</category>
+<author>smokeman</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>6889</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='30'>
+<title>CSS/JavaScript Dropdown Menu</title>
+<description>A fancy horizontal Dropdown Menu for your PHP-Fusion site.
+
+Insertion of links from the infusions administration-part.
+- No need to edit codes.
+
+Will work with all standard-coded themes - without any modding at all.</description>
+<autolink>http://smart-fusion.ru/storage/css_dropdown_menu.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/573.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/573.jpg</panorama>
+<category>3</category>
+<author>smokeman</author>
+<pubdate>12-08-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>54765</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='29'>
+<title>Top 5 Forum Posters Centre</title>
+<description>A centre panel to show the Top 5 Forum Posters.
+Displays top 5 forum posters with username, avatar and post count.
+Does not include admins.</description>
+<autolink>http://smart-fusion.ru/storage/top5_forum_posters_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/1072.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/1072.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>12-07-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>2436</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='28'>
+<title>Submissions Panel</title>
+<description>The panel, which displays the new arrivals from users:
+- News
+- Articles
+- Links
+- Photos.
+The panel is visible only to the administrator.
+Very useful for sites that offer content from its users.</description>
+<autolink>http://smart-fusion.ru/storage/submissions_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/435.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/435.png</panorama>
+<category>2</category>
+<author>jikaka</author>
+<pubdate>12-07-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>2249</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='27'>
+<title>Christmas</title>
+<description>Christmas Panel ideal for the festive season.
+
+Features
+Falling Snow on your site
+Advent Countdown Displays a different Christmas icon every day from 1 December until 25th December.
+Option to enable or disable each tab
+Christmas Countdown Script
+Uses google Webfonts for nice text
+2 in 1 panel allows it to be used as a Centre or Side Panel without modifications
+
+
+Changelog:
+v 1.00: First public release
+v 1.01: Fixed Countdown.php Advent now works we removed 0 from in front of dates like 01 02 03 04 05 06 07 08 09 is now 123456789
+v 1.02: Updated for PHP-Fusion v7.02 compatibility, Added Google Webfont for displaying nice text.
+</description>
+<autolink>http://smart-fusion.ru/storage/christmas_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/1107.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/1107.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>12-07-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>158969</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='26'>
+<title>Donate Panel</title>
+<description>This small but handy infusion &amp; panel, You can start taking donations on your site via paypal.
+ This download comes with a nice donations side panel, a donate page and Admin back end where you can configure the Paypal Donate Page description, Side Panel description, Site donate page description and add your Paypal Email account.
+
+ Other Credits: Special Thanks to Barspin for Assisting with admin and infusion.php
+ Thanks to Paypal API.
+ Testing by Nostradamus</description>
+<autolink>http://smart-fusion.ru/storage/donate_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/donate_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/donate_panel.png</panorama>
+<category>2</category>
+<author>Fangree_Craig</author>
+<pubdate>11-27-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>11421</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='25'>
+<title>Ji&amp;Ha Gallery</title>
+<description>An alternative to the standard photogallery to view photos through the slide show.</description>
+<autolink>http://smart-fusion.ru/storage/ji_ha_gallery_infusion.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ji_ha_gallery_infusion.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/ji_ha_gallery_infusion.jpg</panorama>
+<category>3</category>
+<author>jikaka, HaYaLeT</author>
+<pubdate>11-27-2011</pubdate>
+<compatible>7.02.04</compatible>
+<size>6736</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='24'>
+<title>Random Sum</title>
+<description>Simple mathematical game on jQuery which allows to develop self-concentration and attention in a combination to practice on summation of simple numbers.</description>
+<autolink>http://smart-fusion.ru/storage/random_sum_infusion.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/random_sum_infusion.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/random_sum_infusion.png</panorama>
+<category>3</category>
+<author>jikaka</author>
+<pubdate>11-27-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>87158</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='23'>
+<title>NewSlider</title>
+<description>This is the official theme of the site PHP-Fusion CMS support in Brazil and in Countries That speak the Portuguese language.
+ This theme uses the technique of multi-color background (jquery framework).
+ It also has a beautiful and functional slider called Nivo Slider.
+ The theme is valid within the international standards by the W3C.</description>
+<autolink>http://smart-fusion.ru/storage/new_slider_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/new_slider_theme.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/new_slider_theme.png</panorama>
+<category>1</category>
+<author>Halisson Ricardo</author>
+<pubdate>11-27-2011</pubdate>
+<compatible>7.02.04</compatible>
+<size>291455</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='22'>
+<title>Spam Report</title>
+<description>This is a small left side panel with a button members can click to report Spam on a particular page. Once reported, no one else can report that page. Admins are notified of a spam report in the panel with a link to a page that displays the reported page, who reported it and the date. Once the Spam has been dealt with, the report can be deleted and the button will reset for that page.</description>
+<autolink>http://smart-fusion.ru/storage/spam_report_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/spam_report_panel.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/spam_report_panel.jpg</panorama>
+<category>2</category>
+<author>HobbyMan</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>5409</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='21'>
+<title>FP Forum Info</title>
+<description>FP Forum Info panel displays a stylish CSS Notice box above forum threads for normal threads (Green), sticky threads (Blue) and locked threads (red). If a thread is sticky and locked it will display a yellow box.
+ Also shows if attachments are in the thread, thread author name, posts in thread count, thread views and thread id.</description>
+<autolink>http://smart-fusion.ru/storage/fp_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fp_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/fp_panel.png</panorama>
+<category>2</category>
+<author>Fangree Craig</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>3097</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='20'>
+<title>HappyAccidents</title>
+<description>A simple, yet some and clean looking theme.</description>
+<autolink>http://smart-fusion.ru/storage/happy_accidents_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/happy_accidents_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/happy_accidents_theme.jpg</panorama>
+<category>1</category>
+<author>KEFF, SoulSmasher</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.00.xx</compatible>
+<size>839393</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='19'>
+<title>Bifrost</title>
+<description>The official PHP-Fusion default theme.</description>
+<autolink>http://smart-fusion.ru/storage/bifrost_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/bifrost_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/bifrost_theme.jpg</panorama>
+<category>1</category>
+<author>Johan Wilson</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>198852</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='18'>
+<title>Reflux</title>
+<description>Light gray and white theme based of Modern10.</description>
+<autolink>http://smart-fusion.ru/storage/reflux_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/reflux_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/reflux_theme.jpg</panorama>
+<category>1</category>
+<author>Structor</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>164472</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='17'>
+<title>The Movie House</title>
+<description>Theme based on movies, but is also changeble for other purposes.</description>
+<autolink>http://smart-fusion.ru/storage/the_movie_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/the_movie_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/the_movie_theme.jpg</panorama>
+<category>1</category>
+<author>Tommy Hermans</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1104618</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='16'>
+<title>Arise</title>
+<description>The official PHP-Fusion default theme.</description>
+<autolink>http://smart-fusion.ru/storage/arise_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/arise_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/arise_theme.jpg</panorama>
+<category>1</category>
+<author>Domi</author>
+<pubdate>11-20-2011</pubdate>
+<compatible>7.02.04</compatible>
+<size>80687</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='15'>
+<title>Ajax user info</title>
+<description>Modification of the standard user panel on Ajax. When the mouse cursor move on the avatar your name, IP-address and how many unread messages are showed.</description>
+<autolink>http://smart-fusion.ru/storage/ajaxuser_info_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/ajax_info_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/ajax_info_panel.png</panorama>
+<category>2</category>
+<author>klimiux</author>
+<pubdate>11-13-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>70860</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='14'>
+<title>Enhanced Online Users</title>
+<description>Extended central panel &quot;Who on this site.&quot;</description>
+<autolink>http://smart-fusion.ru/storage/enhanced_online_users_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/enhanced_online_users_panel.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/enhanced_online_users_panel.png</panorama>
+<category>2</category>
+<author>Fangree Craig</author>
+<pubdate>11-07-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>15636</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='13'>
+<title>Comments Management</title>
+<description>This infusion allow you to manage comments directly from the control panel without going to pages where they were added.</description>
+<autolink>http://smart-fusion.ru/storage/comments_management_infusion.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/comments_management_infusion.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/comments_management_infusion.png</panorama>
+<category>3</category>
+<author>khalid545</author>
+<pubdate>11-07-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>8765</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='12'>
+<title>Blue Radius</title>
+<description>Theme in bright colors with blue.</description>
+<autolink>http://smart-fusion.ru/storage/blue_radius_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/blue_radius_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/blue_radius_theme.jpg</panorama>
+<category>1</category>
+<author>Fangree Craig</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>32079</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='11'>
+<title>Pumpkin</title>
+<description>Another animated template in Halloween style.</description>
+<autolink>http://smart-fusion.ru/storage/pumpkin_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/pumpkin_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/pumpkin_theme.jpg</panorama>
+<category>1</category>
+<author>Mangee</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>281128</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='10'>
+<title>Fashion</title>
+<description>Fashion style.</description>
+<autolink>http://smart-fusion.ru/storage/fashion_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/fashion_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/fashion_theme.jpg</panorama>
+<category>1</category>
+<author>www.templates.com</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>230643</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='9'>
+<title>Filmumanija</title>
+<description>Bright theme for sites about movies and animation.</description>
+<autolink>http://smart-fusion.ru/storage/filmumanija_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/filmumanija_theme.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/filmumanija_theme.png</panorama>
+<category>1</category>
+<author>mAnaXi</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>228843</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='8'>
+<title>GRP Four</title>
+<description>The dark theme in the Grand Theft Auto style.</description>
+<autolink>http://smart-fusion.ru/storage/grp_four_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/grp_four_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/grp_four_theme.jpg</panorama>
+<category>1</category>
+<author>ViliusR</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>699182</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='7'>
+<title>JPA FM</title>
+<description>The best radio theme.</description>
+<autolink>http://smart-fusion.ru/storage/jpa_fm_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/jpa_fm_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/jpa_fm_theme.jpg</panorama>
+<category>1</category>
+<author>E-Studija</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1946397</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='6'>
+<title>RuneMarket</title>
+<description>Theme in fantasy style for the gaming site.</description>
+<autolink>http://smart-fusion.ru/storage/runemarket_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/runemarket_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/runemarket_theme.jpg</panorama>
+<category>1</category>
+<author>Visos</author>
+<pubdate>11-06-2011</pubdate>
+<compatible>7.02.xx</compatible>
+<size>1192687</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='5'>
+<title>Colorus</title>
+<description>Dark theme with colorful aero waves.</description>
+<autolink>http://smart-fusion.ru/storage/colorus_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/colorus_theme.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/colorus_theme.png</panorama>
+<category>1</category>
+<author>Joar</author>
+<pubdate>10-30-2011</pubdate>
+<compatible>All</compatible>
+<size>80875</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='4'>
+<title>Asperon</title>
+<description>A dark blue theme.</description>
+<autolink>http://smart-fusion.ru/storage/asperon_theme.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/asperon_theme.png</preview>
+<panorama>http://smart-fusion.ru/images/addons/asperon_theme.png</panorama>
+<category>1</category>
+<author>Nick Jones</author>
+<pubdate>10-30-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>12628</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+<addon id='3'>
+<title>Photowidget</title>
+<description>Adds a panel which will show randomize images in a cloud of photo thumbs from your PHP-Fusion gallery.</description>
+<autolink>http://smart-fusion.ru/storage/photowidget_panel.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/photo_cloud.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/photo_cloud.jpg</panorama>
+<category>2</category>
+<author>Domi</author>
+<pubdate>10-27-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>8817</size>
+<type>Panel</type>
+<certificate>0</certificate>
+</addon>
+<addon id='2'>
+<title>User Control</title>
+<description>This is a powerful Administrators tool for the bulk banning or deletion of user accounts. It will display up to 100 users per page depending on access level and setting chosen giving an Admin with Ban privileges the ability to ban or delete multiple selection of user accounts. With built in Spam Rate, it give a site admin a quick glance at the member accounts and any content all in one place.</description>
+<autolink>http://smart-fusion.ru/storage/user_control.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/user_control.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/user_control.jpg</panorama>
+<category>3</category>
+<author>Philip</author>
+<pubdate>10-27-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>204065</size>
+<type>Infusion</type>
+<certificate>0</certificate>
+</addon>
+<addon id='1'>
+<title>Multicolor Theme</title>
+<description>Free multicolor theme with color switcher.</description>
+<autolink>http://smart-fusion.ru/storage/multicolour.zip</autolink>
+<preview>http://smart-fusion.ru/images/addons/multicolor_theme.jpg</preview>
+<panorama>http://smart-fusion.ru/images/addons/multicolor_theme.jpg</panorama>
+<category>1</category>
+<author>faga</author>
+<pubdate>10-26-2011</pubdate>
+<compatible>7.01.xx</compatible>
+<size>151783</size>
+<type>Theme</type>
+<certificate>0</certificate>
+</addon>
+</smart>
