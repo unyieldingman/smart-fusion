@@ -18,6 +18,8 @@
 if (!defined("IN_FUSION")) { die("Access Denied"); }
 
 class Infusion {
+	const BOUNDARY_CORE_VERSION = 70200;
+	
 	private $_settings;
 	
 	function __construct() {
@@ -70,6 +72,12 @@ class Infusion {
 			}
 		}
 		return $status_code;
+	}
+	
+	public function getCoreVersionNumber() {
+		global $settings;
+		
+		return (int)str_replace(".", "", $settings['version']);
 	}
 	
 	private function _updateSettings() {

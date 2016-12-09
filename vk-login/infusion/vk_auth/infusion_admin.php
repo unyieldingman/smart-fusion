@@ -38,11 +38,11 @@ if (isset($_POST['savesettings'])) {
 		"setting_client_id"		=>	(isset($_POST['setting_client_id']) ? $_POST['setting_client_id'] : ""),
 		"setting_secret_key"	=>	(isset($_POST['setting_secret_key']) ? $_POST['setting_secret_key'] : "")
 	);
-	$result = $infusion->setSettingsArray($settings_inf);
+	$result = $my_infusion->setSettingsArray($settings_inf);
 	redirect(FUSION_SELF.$aidlink."&result=".$result);
 }
 
-$settings2 = $infusion->getSettingsArray();
+$settings2 = $my_infusion->getSettingsArray();
 $backlink = sprintf("%sinfusions/%s/infusion_verify.php", $settings['siteurl'], INFUSION_FOLDER);
 
 opentable($locale['vk_auth_003']);

@@ -23,13 +23,15 @@ class VkAPI {
 	private $_settings;
 	private $_redirectUrl;
 	private $_error;
+	private $_version;
 	
 	function __construct() {
-		global $infusion, $settings;
+		global $my_infusion, $settings;
 		
-		$this->_settings = $infusion->getSettingsArray();
+		$this->_settings = $my_infusion->getSettingsArray();
 		$this->_redirectUrl = sprintf("%sinfusions/vk_auth/infusion_verify.php", $settings['siteurl']);
 		$this->_error = null;
+		$this->_version = $my_infusion->getCoreVersionNumber();
 	}
 	
 	public function createLink() {
@@ -72,6 +74,15 @@ class VkAPI {
 					$json = $this->_getUserInfo($data->user_id, $data->access_token);
 					$user_data = $json->response[0];
 					
+					// Require classes for PHP-Fusion 7.02.xx
+					if ($this->_version > Infusion::BOUNDARY_CORE_VERSION) {
+						require_once CLASSES."PasswordAuth.class.php";
+						require_once CLASSES."Authenticate.class.php";
+					} else if ($this->_version == Infusion::BOUNDARY_CORE_VERSION) {
+						require_once INCLUDES."PasswordAuth.class.php";
+						require_once INCLUDES."Authenticate.class.php";
+					}
+					
 					if ($profile_exists) {
 						
 						// Get account information
@@ -87,40 +98,11 @@ class VkAPI {
 							throw new Exception("Could not update token, database fail.");
 						}
 						
-						// Autoupdate Vk user field
-						$_POST['user_vk'] = $user_data->domain;
-						
-						// Require user fields
-						$profile_method = "validate_update"; $db_values = "";
-						$result = dbquery("SELECT * FROM ".DB_USER_FIELDS." ORDER BY field_order");
-						if (dbrows($result)) {
-							while ($field = dbarray($result)) {
-								if (file_exists(LOCALE.LOCALESET."user_fields/".$field['field_name'].".php")) {
-									include LOCALE.LOCALESET."user_fields/".$field['field_name'].".php";
-								}
-								if (file_exists(INCLUDES."user_fields/".$field['field_name']."_include.php")) {
-									include INCLUDES."user_fields/".$field['field_name']."_include.php";
-								}
-							}
+						if ($this->_version >= Infusion::BOUNDARY_CORE_VERSION) {
+							return $this->_profileUpdateMethodNew();
+						} else {
+							return $this->_profileUpdateMethodOld();
 						}
-						
-						// Validate received user data
-						$user_pass = $this->_generateUserPass($user_data->domain);
-						
-						// Synchronize user data
-						$avatarname = $this->_saveAvatarImage($user_data->photo_100, $row['user_id']);
-						$result = dbquery("UPDATE ".DB_USERS." SET user_name='".$user_data->domain."', user_password='".md5($user_pass)."'".($avatarname ? ", user_avatar='$avatarname'" : "")."$db_values WHERE user_id='".$row['user_id']."' LIMIT 1");
-						if (!$result) {
-							if ($avatarname) {
-								@unlink(IMAGES."avatars/".$avatarname);
-							}
-							throw new Exception("Could not update user data, database fail.");
-						}
-						
-						// Authenticate user
-						$this->_authenticateUser($row['user_id'], $user_data->domain, $user_pass, TOKEN_EXPIRATION_TIME);
-						
-						return true;
 					} else {
 						
 						// Checking if registration is enabled
@@ -135,47 +117,11 @@ class VkAPI {
 						}
 						$token_id = mysql_insert_id();
 						
-						// Autocomplete Vk user field
-						$_POST['user_vk'] = $user_data->domain;
-						
-						// Require user fields
-						$profile_method = "validate_insert"; $db_fields = ""; $db_values = "";
-						$result = dbquery("SELECT * FROM ".DB_USER_FIELDS." ORDER BY field_order");
-						if (dbrows($result)) {
-							while ($field = dbarray($result)) {
-								if (file_exists(LOCALE.LOCALESET."user_fields/".$field['field_name'].".php")) {
-									include LOCALE.LOCALESET."user_fields/".$field['field_name'].".php";
-								}
-								if (file_exists(INCLUDES."user_fields/".$field['field_name']."_include.php")) {
-									include INCLUDES."user_fields/".$field['field_name']."_include.php";
-								}
-							}
+						if ($this->_version >= Infusion::BOUNDARY_CORE_VERSION) {
+							return $this->_profileCreateMethodNew();
+						} else {
+							return $this->_profileCreateMethodOld();
 						}
-						
-						// Validate received user data
-						$user_pass = $this->_generateUserPass($user_data->domain);
-						$user_status = $settings['admin_activation'] == "1" ? "2" : "0";
-						
-						// Create new profile
-						$result = dbquery("INSERT INTO ".DB_USERS." (user_name, user_password, user_admin_password, user_email, user_hide_email, user_avatar, user_posts, user_threads, user_joined, user_lastvisit, user_ip, user_rights, user_groups, user_level, user_status, user_uid, user_token_id".$db_fields.") VALUES ('".$user_data->domain."', '".md5($user_pass)."', '', '', '1', '', '0', '0', '".time()."', '0', '".USER_IP."', '', '', '101', '$user_status', '".$data->user_id."', '$token_id'".$db_values.")");
-						if (!$result) {
-							throw new Exception("Could not create a new member, database fail.");
-						}
-						$user_id = mysql_insert_id();
-						
-						// Copy custom user avatar, not the default
-						$avatarname = $this->_saveAvatarImage($user_data->photo_100, $user_id);
-						if ($avatarname) {
-							$result = dbquery("UPDATE ".DB_USERS." SET user_avatar='$avatarname' WHERE user_id='$user_id' LIMIT 1");
-							if (!$result) {
-								@unlink(IMAGES."avatars/".$avatarname);
-							}
-						}
-						
-						// Authenticate user
-						$this->_authenticateUser($user_id, $user_data->domain, $user_pass, TOKEN_EXPIRATION_TIME);
-						
-						return true;
 					}
 				} else {
 					throw new Exception(isset($data->error_description) ? $data->error_description : null);
@@ -254,6 +200,165 @@ class VkAPI {
 	
 	private function _generateUserPass($domain) {
 		return md5($domain.($this->_settings['setting_client_id']).($this->_settings['setting_secret_key']));
+	}
+	
+	private function _profileUpdateMethodOld() {
+		global $row, $data, $user_data;
+		
+		// Autoupdate Vk user field
+		$_POST['user_vk'] = $user_data->domain;
+		
+		// Require user fields
+		$profile_method = "validate_update"; $db_values = "";
+		$result = dbquery("SELECT * FROM ".DB_USER_FIELDS." ORDER BY field_order");
+		if (dbrows($result)) {
+			while ($field = dbarray($result)) {
+				if (file_exists(LOCALE.LOCALESET."user_fields/".$field['field_name'].".php")) {
+					include LOCALE.LOCALESET."user_fields/".$field['field_name'].".php";
+				}
+				if (file_exists(INCLUDES."user_fields/".$field['field_name']."_include.php")) {
+					include INCLUDES."user_fields/".$field['field_name']."_include.php";
+				}
+			}
+		}
+		
+		// Validate received user data
+		$user_pass = $this->_generateUserPass($user_data->domain);
+		
+		// Synchronize user data
+		$avatarname = $this->_saveAvatarImage($user_data->photo_100, $row['user_id']);
+		$result = dbquery("UPDATE ".DB_USERS." SET user_name='".$user_data->domain."', user_password='".md5($user_pass)."'".($avatarname ? ", user_avatar='$avatarname'" : "")."$db_values WHERE user_id='".$row['user_id']."' LIMIT 1");
+		if (!$result) {
+			if ($avatarname) {
+				@unlink(IMAGES."avatars/".$avatarname);
+			}
+			throw new Exception("Could not update user data, database fail.");
+		}
+		
+		// Authenticate user
+		$this->_authenticateUser($row['user_id'], $user_data->domain, $user_pass, TOKEN_EXPIRATION_TIME);
+		
+		return true;
+	}
+	
+	private function _profileUpdateMethodNew() {
+		global $row, $data, $user_data;
+		
+		// Validate received user data
+		$user_pass = PasswordAuth::getNewPassword();
+		$pass_auth = new PasswordAuth();
+		$pass_auth->inputNewPassword2 = $pass_auth->inputNewPassword = $user_pass;
+
+		if ($pass_auth->isValidNewPassword() !== 0) {
+			throw new Exception("New password is not valid.");
+		}
+
+		$user_algo = $pass_auth->getNewAlgo();
+		$user_salt = $pass_auth->getNewSalt();
+		$user_hash = $pass_auth->getNewHash();
+
+		// Synchronize user data
+		$avatarname = $this->_saveAvatarImage($user_data->photo_100, $row['user_id']);
+		$result = dbquery("UPDATE ".DB_USERS." SET user_name='".$user_data->domain."', user_algo='".$user_algo."', user_salt='".$user_salt."', user_password='".$user_hash."'".($avatarname ? ", user_avatar='$avatarname'" : "")." WHERE user_id='".$row['user_id']."' LIMIT 1");
+		if (!$result) {
+			if ($avatarname) {
+				@unlink(IMAGES."avatars/".$avatarname);
+			}
+			throw new Exception("Could not update user data, database fail.");
+		}
+
+		// Authenticate user
+		$auth = new Authenticate($user_data->domain, $user_pass, false);
+		unset($auth);
+
+		return true;
+	}
+	
+	private function _profileCreateMethodOld() {
+		global $settings, $data, $user_data, $token_id;
+		
+		// Autocomplete Vk user field
+		$_POST['user_vk'] = $user_data->domain;
+		
+		// Require user fields
+		$profile_method = "validate_insert"; $db_fields = ""; $db_values = "";
+		$result = dbquery("SELECT * FROM ".DB_USER_FIELDS." ORDER BY field_order");
+		if (dbrows($result)) {
+			while ($field = dbarray($result)) {
+				if (file_exists(LOCALE.LOCALESET."user_fields/".$field['field_name'].".php")) {
+					include LOCALE.LOCALESET."user_fields/".$field['field_name'].".php";
+				}
+				if (file_exists(INCLUDES."user_fields/".$field['field_name']."_include.php")) {
+					include INCLUDES."user_fields/".$field['field_name']."_include.php";
+				}
+			}
+		}
+		
+		// Validate received user data
+		$user_pass = $this->_generateUserPass($user_data->domain);
+		$user_status = $settings['admin_activation'] == "1" ? "2" : "0";
+		
+		// Create new profile
+		$result = dbquery("INSERT INTO ".DB_USERS." (user_name, user_password, user_admin_password, user_email, user_hide_email, user_avatar, user_posts, user_threads, user_joined, user_lastvisit, user_ip, user_rights, user_groups, user_level, user_status, user_uid, user_token_id".$db_fields.") VALUES ('".$user_data->domain."', '".md5($user_pass)."', '', '', '1', '', '0', '0', '".time()."', '0', '".USER_IP."', '', '', '101', '$user_status', '".$data->user_id."', '$token_id'".$db_values.")");
+		if (!$result) {
+			throw new Exception("Could not create a new member, database fail.");
+		}
+		$user_id = mysql_insert_id();
+		
+		// Copy custom user avatar, not the default
+		$avatarname = $this->_saveAvatarImage($user_data->photo_100, $user_id);
+		if ($avatarname) {
+			$result = dbquery("UPDATE ".DB_USERS." SET user_avatar='$avatarname' WHERE user_id='$user_id' LIMIT 1");
+			if (!$result) {
+				@unlink(IMAGES."avatars/".$avatarname);
+			}
+		}
+		
+		// Authenticate user
+		$this->_authenticateUser($user_id, $user_data->domain, $user_pass, TOKEN_EXPIRATION_TIME);
+		
+		return true;
+	}
+	
+	private function _profileCreateMethodNew() {
+		global $settings, $data, $user_data, $token_id;
+		
+		// Validate received user data
+		$user_pass = PasswordAuth::getNewPassword();
+		$pass_auth = new PasswordAuth();
+		$pass_auth->inputNewPassword2 = $pass_auth->inputNewPassword = $user_pass;
+
+		if ($pass_auth->isValidNewPassword() !== 0) {
+			throw new Exception("New password is not valid.");
+		}
+
+		$user_algo = $pass_auth->getNewAlgo();
+		$user_salt = $pass_auth->getNewSalt();
+		$user_hash = $pass_auth->getNewHash();
+
+		$user_status = $settings['admin_activation'] == "1" ? "2" : "0";
+
+		// Create new profile
+		$result = dbquery("INSERT INTO ".DB_USERS." (user_name, user_algo, user_salt, user_password, user_admin_password, user_email, user_hide_email, user_avatar, user_posts, user_threads, user_joined, user_lastvisit, user_ip, user_rights, user_groups, user_level, user_status, user_uid, user_token_id) VALUES ('".$user_data->domain."', '".$user_algo."', '".$user_salt."', '".$user_hash."', '', '', '1', '', '0', '0', '".time()."', '0', '".USER_IP."', '', '', '101', '$user_status', '".$data->user_id."', '$token_id')");
+		if (!$result) {
+			throw new Exception("Could not create a new member, database fail.");
+		}
+		$user_id = mysql_insert_id();
+
+		// Copy custom user avatar, not the default
+		$avatarname = $this->_saveAvatarImage($user_data->photo_100, $user_id);
+		if ($avatarname) {
+			$result = dbquery("UPDATE ".DB_USERS." SET user_avatar='$avatarname' WHERE user_id='$user_id' LIMIT 1");
+			if (!$result) {
+				@unlink(IMAGES."avatars/".$avatarname);
+			}
+		}
+
+		// Authenticate user
+		$auth = new Authenticate($user_data->domain, $user_pass, false);
+		unset($auth);
+
+		return true;
 	}
 }
 ?>

@@ -21,7 +21,7 @@ require_once INFUSIONS."vk_auth/infusion_db.php";
 
 $inf_title = $locale['vk_auth_000'];
 $inf_description = $locale['vk_auth_001'];
-$inf_version = "1.0";
+$inf_version = "1.1";
 $inf_developer = "FDTD Designer (FILON)";
 $inf_email = "supported@yandex.com";
 $inf_weburl = "http://smart-fusion.ru/";
@@ -51,14 +51,14 @@ $inf_droptable[1] = DB_TOKENS;
 $inf_deldbrow[1] = DB_SETTINGS_INF." WHERE settings_inf = '".$inf_folder."'";
 
 if (isset($_POST['infuse']) && isset($_POST['infusion'])) {
-	$result = dbquery(
+	$inf_result = dbquery(
 		"ALTER TABLE ".DB_USERS."
 		ADD `user_uid` int(10) unsigned NOT NULL DEFAULT '0' AFTER `user_id`,
 		ADD `user_token_id` mediumint(8) unsigned NOT NULL DEFAULT '0' AFTER `user_uid`,
 		ADD CONSTRAINT fk_token_id FOREIGN KEY (user_token_id) REFERENCES ".DB_TOKENS."(token_id) ON DELETE CASCADE"
 	);
 } elseif (isset($_GET['defuse']) && isnum($_GET['defuse'])) {
-	$result = dbquery(
+	$inf_result = dbquery(
 		"ALTER TABLE ".DB_USERS."
 		DROP `user_uid`,
 		DROP `user_token_id`,
@@ -67,8 +67,8 @@ if (isset($_POST['infuse']) && isset($_POST['infusion'])) {
 }
 
 // Adding support for oldest PHP-Fusion
-$result = dbquery("SHOW TABLES LIKE '".DB_SETTINGS_INF."'");
-if (!dbrows($result)) {
+$inf_result = dbquery("SHOW TABLES LIKE '".DB_SETTINGS_INF."'");
+if (!dbrows($inf_result)) {
 	$inf_newtable[2] = DB_SETTINGS_INF." (
 	  `settings_name` varchar(200) NOT NULL DEFAULT '',
 	  `settings_value` text NOT NULL,

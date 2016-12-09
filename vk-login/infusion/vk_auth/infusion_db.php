@@ -20,5 +20,5 @@ if (!defined("IN_FUSION")) { die("Access Denied"); }
 require_once INFUSIONS."vk_auth/classes/Infusion.class.php";
 
 // Declare new instance
-$infusion = new Infusion();
+$my_infusion = new Infusion();
 ?>
